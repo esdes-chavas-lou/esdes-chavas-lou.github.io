@@ -1,1 +1,13 @@
-<h1>
+section img{
+    width: 100%;
+}
+   @font-face {
+       font-family: Roboto;
+       src: url(fonts/Roboto-Regular.ttf);
+   }
+  * {
+      font-family: Roboto, sans-serif;
+    }
+    section img {
+        width : 100%
+    }
