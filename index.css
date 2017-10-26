@@ -10,3 +10,8 @@ main header {
 .rotate {
     transform: rotate(90deg);
 }
+article{
+        margin-left: 15%;
+        margin-right: 15%;
+        background-color: rgb(182, 177, 177);
+}
