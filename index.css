@@ -13,5 +13,9 @@ main header {
 article{
         margin-left: 15%;
         margin-right: 15%;
-        background-color: rgb(182, 177, 177);
+        background-color: rgb(236, 236, 236);
+}
+section {
+    margin-left: 15%;
+    margin-right: 15%;
 }
