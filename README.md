@@ -20,12 +20,12 @@ PAGE D'ACCUEIL
 ```
 
 * Photo pour la mise en page 
-! [GitHub Logo] (./images/captureecran.png)
+![GitHub Logo](./images/captureecran.png)
 * Titre 
 * Boutons articles 
 
 > Image maquette, page d'accueil 
-! [GitHub Logo] (.images/page1.png)
+![GitHub Logo](.images/page1.png)
 
 ```
 Article 1 
