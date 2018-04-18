@@ -18,18 +18,20 @@
 ```
 PAGE D'ACCUEIL 
 ```
+![GitHub Logo](./images/captureecran.png)
 
 * Photo pour la mise en page, page d'accueil 
-![GitHub Logo](./images/captureecran.png)
 * Titre 
 * Boutons articles 
 
+![](./images/captureecran.png)
 
 ```
 Article 1 
 ```
+![GitHub Logo](.image/page1.png)
+
 * Photo du thème de l'article 
-![GitHub Logo](./image/page1.png)
 * Titre de l'article 
 * Introduction
 * Article 
