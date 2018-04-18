@@ -29,7 +29,7 @@ PAGE D'ACCUEIL
 Article 1 
 ```
 * Photo du thème de l'article 
-![GitHub Logo](.image/page1.png)
+![GitHub Logo](./image/page1.png)
 * Titre de l'article 
 * Introduction
 * Article 
