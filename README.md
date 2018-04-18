@@ -25,10 +25,13 @@ PAGE D'ACCUEIL
 * Boutons articles 
 
 > Image maquette, page d'accueil 
-![GitHub Logo](.images/page1.png)
+![GitHub Logo](./images/captureecran.png)
 
 ```
 Article 1 
 ```
 * Photo du thème de l'article 
-![] (
+![GitHub Logo](.image/page1.png)
+* Titre de l'article 
+* Introduction
+* Article 
