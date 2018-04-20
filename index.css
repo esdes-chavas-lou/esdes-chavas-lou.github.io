@@ -55,33 +55,33 @@ section{
 }
 
 article{
-    color:  rgb(247, 243, 34);
-    letter-spacing: 3px;
-    font-family: 'Poiret One', cursive;
-    background-color:  rgba(2, 99, 2, 0.534);
-    border: solid 1px white;
-    padding: 10px;
-    text-align: center;
-    width:20%;
-    margin:10px;
-    transition: all 0.1s ease-in-out;
+    position: relative;
+    color: rgb(44, 42, 42);
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-family: 'Quicksand', sans-serif;
+    font-size : 20px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    position: relative;
+    border-radius: 20px;
+    padding: 60px;
+    text-align: center;
+    max-width: 100%;
+    transition: all 1s ease-in-out;
     filter: grayscale(0);
-    overflow: hidden;
-}
+        
+       }
 
 
 #article1 {
     background-image:url(images/Bibli.jpg);
 }
 #article2 {
-    background-image:url(images/plage.jpg);
+    background-image:url(images/Bibli.jpg);
 }
 #article3 {
-    background-image:url(images/rose.jpg);
+    background-image:url(images/Bibli.jpg);
 }
 
 
