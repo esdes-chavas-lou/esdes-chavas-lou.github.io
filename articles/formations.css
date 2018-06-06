@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand'); /* Lien pour aller chercher la police Pacifico */
+
+.gallery {
+margin: 20px;
+border: 5px solid #ccc;
+float: left;
+width: 25%;
+font-family: 'Quicksand', sans-serif;
+font-size: 20px;
+letter-spacing: 5px;
+color: #555;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-content: center;
+align-items: center;
+justify-content: center;
+  
+}
+
+section {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-content: center;
+align-items: center;
+justify-content: center;
+ 
+}
+h1 {
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+font-size: 30px;
+color: #555;
+letter-spacing: 30px;
+padding: 50px;
+}
+    
+.gallery:hover {
+border: 3px solid #777;
+}
+    
+    
+.gallery img {
+width: 100%;
+height: auto;
+}
+    
+.desc {
+padding: 10px;
+text-align: center;
+}
