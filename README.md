@@ -20,7 +20,7 @@ PAGE D'ACCUEIL
 ```
 ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 
-* Photo pour la mise en page, page d'accueil 
+* Photo pour la page d'accueil, qu'on retrouvera sur toutes les pages 
 * Titre : Lou Chavas 
 * Boutons articles 
 
@@ -30,7 +30,7 @@ Article 1
 ```
 ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 
-* Photo du thème de l'article (.image/plane)
+* Photo du thème de l'article (.image/plane.jpg)
 * Titre de l'article : voyages
 * Article 
 
@@ -53,3 +53,8 @@ Article 3
 * Photo du thème de l'article (image/indonesie.jpg)
 * Titre de l'article : expériences humanitaires
 * Article 
+
+```
+Fin de page 
+```
+Mail en bas de la page pour me contacter 
