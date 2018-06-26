@@ -28,20 +28,19 @@ PAGE D'ACCUEIL
 ```
 Article 1 
 ```
-Header : ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
-![GitHub Logo](.image/plane)
+![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 
-* Photo du thème de l'article 
+* Photo du thème de l'article (.image/plane)
 * Titre de l'article : voyages
 * Article 
 
 ```
 Article 2 
 ```
-Header : ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
-![GitHub Logo](.image/catben.jpg)
+![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 
-* Photo du thème de l'article 
+
+* Photo du thème de l'article (.image/catben.jpg)
 * Titre de l'article : animaux
 * Article 
 
@@ -49,9 +48,8 @@ Header : ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 ```
 Article 3 
 ```
-Header : ![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
-![GitHub Logo](.image/indonesie.jpg)
+![GitHub Logo](./imagesg/derek-thomson-292163-unsplash.jpg)
 
-* Photo du thème de l'article 
+* Photo du thème de l'article (image/indonesie.jpg)
 * Titre de l'article : expériences humanitaires
 * Article 
